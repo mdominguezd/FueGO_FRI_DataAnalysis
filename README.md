@@ -1,4 +1,5 @@
-# FueGO_FRI_DataAnalysis
+# FueGO FireRiskIndex DataAnalysis
+
 In this repository the data collection and analysis for the FueGO app is explained
 
 The jupyternotebook is divided into two parts:
